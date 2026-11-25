@@ -492,15 +492,7 @@ The author assumes no responsibility for misuse, unauthorized access, service di
 
 ---
 
-## License
 
-Specify your license here.
-
-For example:
-
-```text
-MIT License
-```
 
 ---
 
