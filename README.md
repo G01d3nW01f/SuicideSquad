@@ -87,7 +87,7 @@ Install the required tools and ensure they are available in your system's PATH.
 Clone the repository:
 
 ```bash
-git clone https://github.com/USERNAME/SuicideSquad.git
+git clone https://github.com/SuicideSquad/SuicideSquad.git
 cd SuicideSquad
 ```
 
